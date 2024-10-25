@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @maybeJosiah, Norvel M. IV
+- I speak English
 - 👀 I’m interested in 3 or more dimensional math and timestamps
 - 🌱 I’m currently learning GLSL, Rust, Go and math stuff
 - 📫 How to reach me: [About me](https://gugquettex.com/en/blog/about-me.php) has everything
-- 😄 Pronouns: He/him
-- ⚡ Fun facts: StinomXE, a 3d+ math thing is now FOSS and on gugquettex.
+- 😄 Pronouns: He/him - Male
+- ⚡ Fun facts: [StinomXE](https://gugquettex.com/en/project/stinomxe/index.php), a 3 or more dimensional math thing is now FOSS.
 - [X E?](https://gugquettex.com/en/blog/xe.php)
 - X E.
