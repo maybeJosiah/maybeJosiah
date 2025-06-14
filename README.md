@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @maybeJosiah, Norvel M. IV
 - I speak English
-- 👀 I’m interested in 3 or more dimensional math and timestamps
+- 👀 I’m interested in 3 or more dimensional math, graphics, and timestamps
 - 🌱 I’m currently learning how GPU stuff works and how game internals works.
-- 📫 How to reach me: [About me](https://gugquettex.com/en/blog/about-me.php) has everything
+- 📫 How to reach me: [About me](https://gugquettex.com/en/blog/about-me.php) has everything or maybejosiah@aol.com if you don't want to visit
 - 😄 Pronouns: He/him - Male
 - ⚡ Fun facts: [RinomXE](https://gugquettex.com/en/project/rinomxe/index.php), a 3 or more dimensional math thing is now FOSS.
 - [X E?](https://gugquettex.com/en/blog/xe.php)
+- 6/13/2025, Now looking for contributors for future from RinomXE. Roadmap includes any view points, cutters, and full realism.
 - X E.
